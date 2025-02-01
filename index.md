@@ -4,19 +4,23 @@
 <br> <br> 
 <p align="center">
   <img src="https://githerdone17.github.io/MyPerfectWedding/Images/IMG_6108.jpg" alt="drawing" width="250"/>
-</p>
-[![RSVP](https://img.shields.io/badge/RSVP-Click%20Here-ff4b2b?style=for-the-badge&logo=calendar&logoColor=white)](https://githerdone17.github.io/MyPerfectWedding/SubPages/RSVP)
-<br>
-[![Itinerary](https://img.shields.io/badge/Itinerary-Click%20Here-ff4b2b?style=for-the-badge&logo=calendar&logoColor=white)](https://githerdone17.github.io/MyPerfectWedding/SubPages/Itinerary)
-<a href="https://githerdone17.github.io/MyPerfectWedding/Itinerary" target="_blank">
+
+<a href="https://githerdone17.github.io/MyPerfectWedding/SubPages/RSVP" target="_blank">
+    <button style="background-color: #f39c12; color: white; padding: 12px 25px; font-size: 16px; border: none; border-radius: 50px; cursor: pointer;">
+        RSVP
+    </button>
+</a>
+<a href="https://githerdone17.github.io/MyPerfectWedding/SubPages/Directions" target="_blank">
     <button style="background-color: #f39c12; color: white; padding: 12px 25px; font-size: 16px; border: none; border-radius: 50px; cursor: pointer;">
         Itinerary
     </button>
 </a>
-
-<br>
-[![Directions](https://img.shields.io/badge/Directions-Click%20Here-ff4b2b?style=for-the-badge&logo=calendar&logoColor=white)](https://githerdone17.github.io/MyPerfectWedding/SubPages/Directions)
-
+<a href="https://githerdone17.github.io/MyPerfectWedding/Directions" target="_blank">
+    <button style="background-color: #f39c12; color: white; padding: 12px 25px; font-size: 16px; border: none; border-radius: 50px; cursor: pointer;">
+        Directions
+    </button>
+</a>
+</p>
 
 
 
