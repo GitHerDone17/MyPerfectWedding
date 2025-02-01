@@ -2,5 +2,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: "Abby and Noah's Engagement Party"
-description: "Welcome! All information pertaining to the event can be found here."
+
 
