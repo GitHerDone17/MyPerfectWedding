@@ -1,6 +1,6 @@
 /* Override Cayman theme colors */
 :root {
-  --cayman-background-color: #fdfdfd; /* Background */
+  /* --cayman-background-color: #fdfdfd; /* Background */
   --cayman-page-width: 900px;         /* Page width */
   --cayman-primary-color: #4CAF50;    /* Main header color */
   --cayman-secondary-color: #1a73e8;  /* Link and accent color */
