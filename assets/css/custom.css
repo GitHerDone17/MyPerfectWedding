@@ -1,10 +1,28 @@
+/* Base Page Styling */
 body {
-  background-color: #f0f0f0;
-  color: #333;
+  background-color: #fdf6e3; /* Soft warm cream */
+  color: #333; /* Dark grey for readability */
+  font-family: 'Arial', sans-serif; /* Clean and simple font */
 }
 
-h1 {
-  color: #c78b8b;
+/* Header Styling */
+header {
+  background-color: #FFD166; /* Warm summer yellow */
+  color: #3A3A3A; /* Darker grey for contrast */
+  padding: 20px;
+  text-align: center;
+  border-bottom: 4px solid #FFB703; /* Slightly darker yellow border */
 }
+
+/* Main Title */
+h1 {
+  color: #D97706; /* Deep golden yellow-orange */
+  font-size: 2.5rem; /* Make it bold and welcoming */
+}
+
+a:hover {
+  color: #F4A261; /* Light peach for hover */
+}
+
 
 
