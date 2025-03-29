@@ -15,7 +15,7 @@
     </button>
 </a>
     <br> <br>
-<a href="https://githerdone17.github.io/MyPerfectWedding/SubPages/Directions">
+<a href="https://www.google.com/maps?q=1600+Amphitheatre+Parkway,+Mountain+View,+CA" target="_blank">
     <button style="color: #f5f4f1;">
         Directions
     </button>
