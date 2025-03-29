@@ -26,6 +26,7 @@ button {
   background: linear-gradient(135deg, #849089, #e1dada);
   color: white;
   padding: 10px 20px;
+  margin: 0;
   border: none;
   border-radius: 30px;
   font-size: 1rem;
@@ -35,6 +36,11 @@ button {
   display: inline-block;
   border: none;
   outline: none;
+  width: auto; 
+  min-width: fit-content;
+  box-shadow: 0 0 1px transparent; /* Subpixel rendering fix */
+  transform: translateZ(0); /* Forces hardware acceleration */
+  will-change: transform; /* Prepares the browser to optimize */
 }
 
 button:hover {
