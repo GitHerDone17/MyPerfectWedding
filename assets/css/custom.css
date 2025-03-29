@@ -8,7 +8,7 @@ body {
 /* Header Styling */
 header {
   background: linear-gradient(to right, #FF7F50, #FFB703); /* Warm summer yellow */
-  color: #FFFFFF; /* Darker grey for contrast */
+  color: #FFFFFF; 
   padding: 20px;
   text-align: center;
   border-bottom: 4px solid #FFB703; /* Slightly darker yellow border */
@@ -16,7 +16,7 @@ header {
 
 /* Main Title */
 h1 {
-  color: #B08700; /* Deep golden yellow-orange */
+  color: #FFFFFF; /* white */
   font-family: 'Pacifico';
   font-size: 2.5rem; /* Make it bold and welcoming */
 }
