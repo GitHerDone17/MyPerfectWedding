@@ -1,7 +1,8 @@
 ## Directions
 <br> <br> 
 <a href="https://www.google.com/maps?q=1600+Amphitheatre+Parkway,+Mountain+View,+CA" target="_blank">
-  Open in Google Maps
+  <button onclick = "history.back()" style="background-color: #FFC107; color: white; align:center">
+    Open in Google Maps
   </button>
 </a>
 <br> <br>
