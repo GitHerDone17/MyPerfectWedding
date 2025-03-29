@@ -21,9 +21,21 @@ h1 {
   font-size: 2.5rem; /* Make it bold and welcoming */
 }
 
-a:hover {
-  color: #F4A261; /* Light peach for hover */
+button {
+  background: linear-gradient(135deg, #40E0D0, #32CD32); /* Turquoise to lime green */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 30px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
 }
+
+button:hover {
+  background: linear-gradient(135deg, #32CD32, #40E0D0); /* Reverse gradient */
+}
+
 
 
 
