@@ -7,11 +7,12 @@ body {
 
 /* Header Styling */
 header {
-  background: linear-gradient(to right, #655050, #676767);
-  color: #FFFFFF; 
+  background: linear-gradient(to right, #655050, #849089); /* Richer, cooler contrast */
+  color: #e1dada; /* Light text for contrast */
   padding: 20px;
   text-align: center;
-  border-bottom: 4px solid #FFB703; /* Slightly darker yellow border */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+  border-bottom: 2px solid #cebaa2; /* Light separator */
 }
 
 /* Main Title */
@@ -30,12 +31,24 @@ button {
   font-size: 1rem;
   cursor: pointer;
   transition: background 0.3s ease;
+  max-width: 100%;
+  display: inline-block;
+  border: none;
+  outline: none;
 }
 
 button:hover {
-  background: linear-gradient(135deg, #32CD32, #40E0D0); /* Reverse gradient */
+  background: linear-gradient(135deg, #e1dada, #849089); /* Reverse gradient */
 }
 
+html, body {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
 
+* {
+  box-sizing: border-box;
+}
 
 
