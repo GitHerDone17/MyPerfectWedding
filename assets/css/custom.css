@@ -7,7 +7,7 @@ body {
 
 /* Header Styling */
 header {
-  background-color: #FF7F50; /* Warm summer yellow */
+  background: linear-gradient(to right, #FF7F50, #FFB703); /* Warm summer yellow */
   color: #3A3A3A; /* Darker grey for contrast */
   padding: 20px;
   text-align: center;
