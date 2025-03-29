@@ -1,7 +1,7 @@
 /* Base Page Styling */
 body {
   background: linear-gradient(to bottom, #655050, #cebaa2);
-  color: #333; /* Dark grey for readability */
+  color: #f5f4f1; 
   font-family: 'Arial', sans-serif; /* Clean and simple font */
 }
 
