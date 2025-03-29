@@ -15,7 +15,7 @@
     </button>
 </a>
     <br> <br>
-<a href="https://www.google.com/maps?q=1600+Amphitheatre+Parkway,+Mountain+View,+CA" target="1045 Cameron Avenue, Iroquois Falls, ON">
+<a href="https://www.google.com/maps?q=1045+Cameron+Avenue,+Iroquois+Falls,+ON" target="_blank">
     <button style="color: #f5f4f1;">
         Directions
     </button>
