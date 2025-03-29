@@ -1,13 +1,13 @@
 /* Base Page Styling */
 body {
-  background: linear-gradient(to bottom, #FFDAC1, #FAFEE8); /* Peach to cream */
+  background: linear-gradient(to bottom, #655050, #cebaa2);
   color: #333; /* Dark grey for readability */
   font-family: 'Arial', sans-serif; /* Clean and simple font */
 }
 
 /* Header Styling */
 header {
-  background: linear-gradient(to right, #FF7F50, #FFB703); /* Warm summer yellow */
+  background: linear-gradient(to right, #655050, #676767);
   color: #FFFFFF; 
   padding: 20px;
   text-align: center;
@@ -22,7 +22,7 @@ h1 {
 }
 
 button {
-  background: linear-gradient(135deg, #40E0D0, #32CD32); /* Turquoise to lime green */
+  background: linear-gradient(135deg, #849089, #e1dada);
   color: white;
   padding: 10px 20px;
   border: none;
