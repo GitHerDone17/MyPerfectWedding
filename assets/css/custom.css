@@ -7,7 +7,7 @@ body {
 
 /* Header Styling */
 header {
-  background-color: #FFD166; /* Warm summer yellow */
+  background-color: #FF7F50; /* Warm summer yellow */
   color: #3A3A3A; /* Darker grey for contrast */
   padding: 20px;
   text-align: center;
@@ -17,6 +17,7 @@ header {
 /* Main Title */
 h1 {
   color: #B08700; /* Deep golden yellow-orange */
+  font: Pacifico;
   font-size: 2.5rem; /* Make it bold and welcoming */
 }
 
