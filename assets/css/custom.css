@@ -52,6 +52,7 @@ html, body {
   overflow-x: hidden;
   margin: 0;
   padding: 0;
+  height: 100%;
 }
 
 * {
@@ -88,6 +89,26 @@ html, body {
   padding: 10px 20px;
   color: #333;
 }
+
+.wrapper {
+  display: flex;
+  flex-direction: column; 
+  min-height: 100vh;
+}
+
+.main-flex {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+/* Scalable on phones */
+@media (max-width:600px) {
+  .invite-text, .welcome-text {
+    font-size: 1rem;
+  }
 
 
 
