@@ -80,6 +80,15 @@ html, body {
   color: #333;
 }
 
+.welcome-text {
+  font-size: 2.1rem;
+  text-align: center;
+  margin: 20px auto;
+  max-width: 100px;
+  padding: 10px 20px;
+  color: #333;
+}
+
 
 
 
