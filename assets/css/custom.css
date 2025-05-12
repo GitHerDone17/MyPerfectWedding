@@ -52,7 +52,6 @@ html, body {
   overflow-x: hidden;
   margin: 0;
   padding: 0;
-  height: 100%;
 }
 
 * {
@@ -93,7 +92,6 @@ html, body {
 .wrapper {
   display: flex;
   flex-direction: column; 
-  min-height: 100vh;
 }
 
 .main-flex {
@@ -105,7 +103,7 @@ html, body {
 }
 
 /* Scalable on phones */
-@media (max-width:600px) {
+@media (max-width:1000px) {
   .invite-text, .welcome-text {
     font-size: 1rem;
   }
