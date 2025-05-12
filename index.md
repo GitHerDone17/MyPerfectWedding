@@ -5,19 +5,19 @@
 <div class="button-section">
 <p align="center">
 <a href="https://githerdone17.github.io/MyPerfectWedding/SubPages/RSVP">
-    <button class="pill-button">
+    <button class="button">
         RSVP
     </button>
 </a>
 <br><br>
 <a href="https://githerdone17.github.io/MyPerfectWedding/SubPages/Itinerary">
-    <button class="pill-button">
+    <button class="button">
         Itinerary
     </button>
 </a>
 <br><br>
 <a href="https://www.google.com/maps?q=1045+Cameron+Avenue,+Iroquois+Falls,+ON" target="_blank">
-    <button class="pill-button">
+    <button class="button">
         Directions
     </button>
 </a>
