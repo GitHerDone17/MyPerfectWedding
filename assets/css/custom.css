@@ -3,6 +3,7 @@ body {
   background: linear-gradient(to bottom, #655050, #cebaa2);
   color: #f5f4f1; 
   font-family: 'Arial', sans-serif; /* Clean and simple font */
+  text-align:center;
 }
 
 /* Header Styling */
@@ -58,13 +59,13 @@ html, body {
 }
 
 .button-section {
-  background-image: url('https://githerdone17.github.io/MyPerfectWedding/Images/IMG_6108.jpg');
+  background-image: url('https://githerdone17.github.io/MyPerfectWedding/Images/big-nellie-lake.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   padding: 40px 20px;
   margin: 40px auto;
-  max-width: 500px;
+  max-width: 1000px;
   border-radius: 20px;
   text-align: center;
   color: white;
