@@ -57,4 +57,16 @@ html, body {
   box-sizing: border-box;
 }
 
+.wrapper {
+  background-image: url('https://githerdone17.github.io/MyPerfectWedding/Images/big-nellie-lake.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  padding: 40px;
+  color: white;
+}
+
+
+
 
