@@ -1,6 +1,8 @@
 #### **Welcome!** 
 <br>
-**You are invited to the Falls meets Falls weekend party! To RSVP, select the RSVP button below. Likewise, the other buttons will provide information relevant to the event. We look forward to seeing you!**
+<div class="invite-text">
+  <strong>You are invited to the Falls meets Falls weekend party! To RSVP, select the RSVP button below. Likewise, the other buttons will provide information relevant to the event. We look forward to seeing you!</strong>
+</div>
 <br> <br> 
 <div class="button-section">
 <p align="center">
