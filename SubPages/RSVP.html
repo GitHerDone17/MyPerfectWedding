@@ -13,6 +13,32 @@
     </header>
 
     <main class="main-flex">
+      <div class="invite-text">
+        <p>Please fill out the form below to let us know if you'll be attending!</p>
+      </div>
+
+      <form action="https://formspree.io/f/xzzraqga" method="POST" style="max-width: 600px; margin: auto; text-align: left; background: rgba(255,255,255,0.1); padding: 20px; border-radius: 10px;">
+        <label for="name">Full Name:</label><br>
+        <input type="text" name="name" id="name" required style="width:100%; padding:10px; margin:10px 0;"><br>
+
+        <label for="email">Email Address:</label><br>
+        <input type="email" name="email" id="email" required style="width:100%; padding:10px; margin:10px 0;"><br>
+
+        <label>Will you attend?</label><br>
+        <select name="attendance" required style="width:100%; padding:10px; margin:10px 0;">
+          <option value="">-- Please choose --</option>
+          <option value="Yes">Yes, I'll be there!</option>
+          <option value="No">Sorry, can't make it</option>
+          <option value="Maybe">Maybe</option>
+        </select><br>
+
+        <label for="guests">Number of Guests (excluding you):</label><br>
+        <input type="number" name="guests" id="guests" min="0" style="width:100%; padding:10px; margin:10px 0;"><br>
+
+        <button type="submit" class="button">Submit RSVP</button>
+      </form>
+
+      <br>
       <div class="button-section">
         <p align="center">
           <a href="https://githerdone17.github.io/MyPerfectWedding">
@@ -21,11 +47,12 @@
         </p>
       </div>
     </main>
-      
+
     <footer>
       <p>&copy; 2025 My Perfect Wedding</p>
     </footer>
   </div>
 </body>
 </html>
+
 
